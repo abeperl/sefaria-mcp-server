@@ -1,5 +1,8 @@
 # Sefaria MCP Server
 
+[![npm version](https://img.shields.io/npm/v/sefaria-mcp-server.svg)](https://www.npmjs.com/package/sefaria-mcp-server)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An MCP (Model Context Protocol) server that provides access to [Sefaria](https://www.sefaria.org)'s library of Jewish texts - Torah, Talmud, Mishnah, Midrash, and thousands of commentaries.
 
 Use this server to give Claude, Cursor, Windsurf, or any MCP-compatible AI assistant the ability to search, read, and explore Jewish texts.
