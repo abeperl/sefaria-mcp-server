@@ -27,7 +27,15 @@ Or run directly with npx:
 npx sefaria-mcp-server
 ```
 
+The installed CLI binary is also available as `sefaria-mcp`:
+
+```bash
+npx -y -p sefaria-mcp-server sefaria-mcp
+```
+
 ## Configuration
+
+No API key is required. The server uses Sefaria's public API.
 
 ### Claude Desktop
 

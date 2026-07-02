@@ -160,7 +160,7 @@ Essential for deep Torah study and finding multiple perspectives on a verse.`,
 const server = new Server(
   {
     name: "sefaria-mcp-server",
-    version: "1.0.0",
+    version: "1.0.1",
   },
   {
     capabilities: {
