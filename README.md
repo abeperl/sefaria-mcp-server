@@ -142,6 +142,8 @@ npm start
 - Powered by [Sefaria](https://www.sefaria.org) - the free, open-source library of Jewish texts
 - Built with the [Model Context Protocol](https://modelcontextprotocol.io) SDK
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/abeperl-awesome-stars-1gh2tc?v=70b975b03154613558651644d8cfaec6)](https://m8ven.ai/mcp/abeperl-awesome-stars-1gh2tc?s=readme)
+
 ## License
 
 MIT
